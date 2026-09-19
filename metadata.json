@@ -1,0 +1,6 @@
+{
+  "name": "SUHAG JEWELLERY",
+  "description": "Timeless Indian Jewellery, Handcrafted in Bhiwandi - Luxury Kundan, Polki & Gold Masterpieces",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
